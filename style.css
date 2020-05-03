@@ -25,10 +25,13 @@ header {
     top: 0px;
     left: 0px;
     font-size: 18px;
-    width: 23%;
-}    
+    width: 20%;
+}
+#navbar ul {
+    padding-left: 0;
+}
 .nav-link {
-    /* font-size: 15px; */
+     /* font-size: 15px;  */
     text-decoration: none;
     color: black;
     
@@ -37,6 +40,9 @@ header {
     border: 1px solid black;
     list-style: none;
     padding: 0 10px;
-    line-height: 1.5em;
+    line-height: 2em; 
+}
+#reference {
+    padding-bottom: 40px;
 }
 
