@@ -1,0 +1,42 @@
+* {
+    margin: 0;
+}
+#main-doc {
+    width: 50%;
+    padding-left: 25%;
+}
+ 
+.main-section p {
+    line-height: 2.3em;
+    font-size: 18px;
+}
+header {
+    font-weight: bold;
+    font-size: 25px;
+    font-family: 'Cabin Condensed', sans-serif;
+    line-height: 2em;
+}
+.main-section li {
+    padding-left: 25px;
+    font-size: 18px;
+}
+#navbar {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    font-size: 18px;
+    width: 23%;
+}    
+.nav-link {
+    /* font-size: 15px; */
+    text-decoration: none;
+    color: black;
+    
+}
+#navbar ul li {
+    border: 1px solid black;
+    list-style: none;
+    padding: 0 10px;
+    line-height: 1.5em;
+}
+
